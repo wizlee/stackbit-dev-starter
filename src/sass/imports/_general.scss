@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #d2dce7;
   color: _palette(primary);
   line-height: 1.66667;
 }
@@ -279,7 +279,7 @@ textarea {
     right: 10px;
     top: 50%;
     z-index: 1;
-  } 
+  }
 
   &:before {
     border-top-color: _palette(meta);
