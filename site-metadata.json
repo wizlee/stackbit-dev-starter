@@ -1,0 +1,76 @@
+{
+    "description": "Personal blogging theme for Stackbit",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Wiz Lee",
+        "tagline": "Information Security Conscious 🔑\r\nC#, C/C++, Python & NodeJS developer 👨‍💻\r\nExploring the world of web developement 🚗",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRKF_RXq--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/522638/cb258ffc-af6b-4583-b6ce-f0cd1141fd4b.png",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/wiz_zh",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/wizlee",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/wizlee",
+                "style": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fresh\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        "links": [
+            null,
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
